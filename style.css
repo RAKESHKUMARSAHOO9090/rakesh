@@ -1,0 +1,37 @@
+
+        h1{
+            color: palevioletred;
+            background-color: black;
+            border: 5rcap solid goldenrod;
+        }
+        h2{
+            color: brown;
+            background-color: black;
+            border: 3cap solid gray;
+        }
+body{background-color: aqua;
+}
+h3{
+    color: palevioletred;
+            background-color: black;
+            border: 1cap solid rgb(205, 139, 143);
+            font-size: 50px;
+}
+button{
+    padding: 1cap;
+    color: rgb(255, 255, 255);
+    background-color: blue;
+    font-size: 11px;
+    cursor: pointer;
+}
+.box{
+    display:flex;
+    gap: 30px;
+}
+button a{
+    color: white;
+    text-decoration: none;
+}
+.push{
+    margin-left: auto;
+}
